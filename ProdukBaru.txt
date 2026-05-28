@@ -1,0 +1,2 @@
+OPPO Reno 14,Smartphone,500,6000000
+Mouse ABC 50,Aksesori,45,50000
