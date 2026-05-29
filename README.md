@@ -82,4 +82,4 @@ Anggota:
 - Shinta Aprilia
 
 Repository:
-https://github.com/Kelompok4-ASD/ProyekUAS](https://github.com/floren1712/ProjectUAS_ASD.git
+https://github.com/floren1712/ProjectUAS_ASD.git
